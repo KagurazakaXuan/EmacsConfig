@@ -1,0 +1,9 @@
+.DS_Store
+
+amx-items
+auto-save-list/
+elpa/
+eshell/
+recentf
+org-persist/
+eln-cache/
